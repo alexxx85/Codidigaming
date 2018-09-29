@@ -1,0 +1,16 @@
+/*
+ * Style of this code is Sage Code style. For further information on this style please
+ * visit the following link: https://sagecode.net/sage-code-style 
+ */
+
+package main;
+
+public class MainClass {
+
+	public static void main(String []args) {
+		
+		
+		
+	}
+	
+}
